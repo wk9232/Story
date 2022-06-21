@@ -1,0 +1,2 @@
+This is my first vim test file.
+You know this is correct.
